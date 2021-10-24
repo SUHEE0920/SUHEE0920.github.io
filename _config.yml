@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Suhee Cho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/shinzzang.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Cloud가 AI를 만났을 때"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "suheecho97@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

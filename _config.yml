@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Suhee Cho"
-  avatar           : "/assets/images/shinzzang.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cloud가 AI를 만났을 때"
+  avatar           : "/assets/images/suhee.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "C"
   location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "suheecho97@gmail.com"
+      url: mailto:suheecho97@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,7 +126,32 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+ 
+uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "SUHEE0920"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "suhee-cho-18ba70204" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
 # Site Footer
 footer:
   links:

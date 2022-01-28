@@ -20,7 +20,7 @@ title                    : "Where Change Begins"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Suhee Cho"
-description              : "My life begins now"
+description              : "Tech Consultant Rookie's steps for the future"
 url                      : "https://SUHEE0920.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,7 +90,8 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://www.linkedin.com/in/suhee-cho-18ba70204/"
 
 # Analytics
 analytics:
@@ -118,9 +119,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/suhee-cho-18ba70204/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/SUHEE0920"
@@ -284,9 +285,12 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
+      #date_format: "%Y-%m-%d"
       layout: single
       author_profile: true
       read_time: true
+      #words_per_minute: 250
       comments: # true
       share: true
       related: true

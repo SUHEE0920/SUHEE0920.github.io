@@ -105,7 +105,8 @@ analytics:
 author:
   name             : "Suhee Cho"
   avatar           : "/assets/images/suhee.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Rookie IT Consultant, love AI/Cloud/Frontend"
+  bio              : "Rookie IT Consultant, 
+  love AI/Cloud/Frontend"
   location         : "Seoul, South Korea"
   email            :
   links:
@@ -119,7 +120,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
-      icon: "fab fa-linkedin-in"
+      icon: "fab fa-linkedin-square"
       url: "https://www.linkedin.com/in/suhee-cho-18ba70204/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -220,7 +221,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo
 
 
 # Plugins (previously gems:)
